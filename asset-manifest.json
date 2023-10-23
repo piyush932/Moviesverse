@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/piyush932.github.io/Moviesverse/static/css/main.a85ecdba.css",
+    "main.js": "/piyush932.github.io/Moviesverse/static/js/main.9b1ce7fa.js",
+    "index.html": "/piyush932.github.io/Moviesverse/index.html",
+    "main.a85ecdba.css.map": "/piyush932.github.io/Moviesverse/static/css/main.a85ecdba.css.map",
+    "main.9b1ce7fa.js.map": "/piyush932.github.io/Moviesverse/static/js/main.9b1ce7fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85ecdba.css",
+    "static/js/main.9b1ce7fa.js"
+  ]
+}
